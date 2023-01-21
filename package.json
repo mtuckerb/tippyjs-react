@@ -1,6 +1,6 @@
 {
   "name": "@tippyjs/react",
-  "version": "4.2.5",
+  "version": "4.2.6",
   "description": "React component for Tippy.js",
   "main": "dist/tippy-react.umd.js",
   "module": "dist/tippy-react.esm.js",
@@ -52,11 +52,11 @@
     ]
   },
   "dependencies": {
-    "tippy.js": "^6.3.1"
+    "tippy.js": "^6.3.7"
   },
   "peerDependencies": {
-    "react": ">=16.8",
-    "react-dom": ">=16.8"
+    "react": ">=18.8",
+    "react-dom": ">=18.8"
   },
   "devDependencies": {
     "@babel/core": "^7.8.7",
